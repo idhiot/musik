@@ -1,0 +1,28 @@
+* Cara download vidio lewat termux:
+
+- termux-setup-storage
+
+- cd /sdcard
+
+- wget https://pastebin.com/raw/LY5iibS5 -O yt.sh
+
+- jika terdapat yt.sh saved,maka artinya youtbe-dl berhasil diinstall.
+
+- bash yt.sh
+
+- Selanjutnya buka vidio youtube dan klik tanda panah share lalu pilih termux.
+
+
+* cara kedua download vidio:
+
+git clone https://github.com/khansaad1275/Termux-YTD
+
+ls
+
+cd Termux-YTD
+
+bash install.sh
+
+buka youtube dan klik dibagikan lalu pilih termux
+
+selesai...
